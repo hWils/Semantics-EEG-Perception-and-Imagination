@@ -1,0 +1,16 @@
+﻿sub,sess,cap,bad_channels,notes
+3,3,L,"TPP9h, CCP1h ",
+8,3,M,CCP2h,
+10,1,M,"CP3, FCC3h, CPP3h",
+11,1,M,"M1, CCP2h",good impedances
+12,1,L,"FC1, C3, Cz, CP1, P3, FCz, C1, CP3, P5, FCC3h, CCP3h, CCP5h, CPP3h, FFC1h, FCC1h, CCP1h, TPP7h, PPO5h",
+12,2,L,CCP1h,
+13,1,L,"CCP1h, POO10h",
+14,1,L,,
+14,2,L,,
+15,1,L,,
+15,2,L,,
+16,1,L,"M1, FT9, FCC5h, CCP1h",
+17,1,L,"M1, CCP1h, FFC3h",
+18,1,L,,
+19,1,L,,
