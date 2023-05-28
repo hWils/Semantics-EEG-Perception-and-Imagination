@@ -9,7 +9,7 @@ The dataset used in this tutorial can be downloaded from OpenNeuro respository <
 #### Code
 The following code can be used to pre-process, perform technical validation as described in the publication ***, and as a starter to perform classification based decoding on the dataset.
 
-The code is written in tutorial style, using jupyter notebook. The main script 'batch-papermill' can be used to run automate scripts for all participants.
+The code is written in tutorial style, using jupyter notebook. The main script 'batch-papermill' can be used to run automate scripts for all participants, or alternative each file can be run with locally selected parameters such as participant and task.
 
 #### Extra files
 meta_extended.csv contains participant information such as what cap size was used, and channels that were manually identified as being bad
